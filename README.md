@@ -1,5 +1,5 @@
 # Score-car
-The project is design on Solidworks desgin, used esp32 and PS5 controller
+The project is design on Solidworks, used esp32 and PS5 controller
 
 
 ![image](https://github.com/user-attachments/assets/3b7e3966-6b39-4eb3-a9c0-614e2f611bbf)
